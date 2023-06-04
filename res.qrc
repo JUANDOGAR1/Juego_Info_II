@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>sprites/explocion/albondiga.png</file>
+        <file>sprites/explocion/Dibujo 3.png</file>
+        <file>sprites/MC/inicial.png</file>
+        <file>sprites/BackGrounds/ciudad2.png</file>
+        <file>sprites/BackGrounds/intro juego.png</file>
+    </qresource>
+</RCC>
